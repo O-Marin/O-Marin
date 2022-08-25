@@ -12,5 +12,5 @@ Disculpar la falta de tildes estoy usando un Layout de teclado que no las incluy
 - Me llama la atencion JavaFx y Kotlin como posibles focos de atencion a continuacion de Java
 - 🌱 Actualmente revisando los fundamentos de Java.
 - 💞️ Buscando mi primer trabajo TI
-- 📫 puedes encontrarme en linkedin 
+
 
