@@ -2,14 +2,15 @@
 
 
 
-Disculpar la falta de tildes estoy usando un Layout de teclado que no las incluye.
-
---Perfil en construccion--
 
 
-- 👋 Hola!, Soy Oscar, en este momento estoy revisando los conocimientos adquiridos en el bootcamp para consolidar el aprendizaje, y construyendo el portafolio de proyectos.
-
-- 🌱 Actualmente revisando los fundamentos de Java.
-- 💞️ Buscando mi primer trabajo Java Fullstack/front-end/back-end
+                                                              --Profile under construction--
+                                                              
+                                                              
+                                                              
+- 👋  Hello there!, im Oscar, My current activities include, reinforcing the knowledge picked up in a Java Bootcamp, and building up my portfolio. As well as job seeking.
+ If you are considering giving me a chance, don't be put out by the lack of proyects in my CV im getting there :bowtie:
+- 🌱 I'm also independently learning Cs and python through edx.org and Css-HTML-Javascript through the Odin Project
+- 💞️ Looking for my first Java Fullstack/front-end/back-end. Greatly interested in learning more.
 
 
