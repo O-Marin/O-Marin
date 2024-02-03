@@ -7,11 +7,15 @@
 
 ## Overview 
 
+---
+
  -  [Frontend](#frontend-repositories)
- -  [Learning]()
+ -  [Learning](#learning)
 
 
 ### Learning
+
+---
 
 #### Current : 
 
@@ -29,6 +33,8 @@
 
 
 ### Frontend Repositories
+
+---
 
  - [Viajes Chile](https://github.com/O-Marin/viajesChile_)
  - [Omelette Recipe](https://github.com/O-Marin/omeletteRecipe)
