@@ -5,9 +5,27 @@
 
    :hammer:**This Profile is undere construction**:hammer:
 
-## Overview  
- -  [Frontend](#frontend-repositories)
+## Overview 
 
+ -  [Frontend](#frontend-repositories)
+ -  [Learning]()
+
+
+### Learning
+
+#### Current : 
+
+- HTML
+- CSS
+- Bootstrap
+- Jquery
+- Javascript
+
+#### On Hold :
+
+- Java
+- Springboot
+        
 
 
 ### Frontend Repositories
