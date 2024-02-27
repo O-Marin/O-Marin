@@ -40,6 +40,7 @@
  - [Omelette Recipe](https://github.com/O-Marin/omeletteRecipe)
  - [Social Media Links](https://github.com/O-Marin/socialsProfileLink)
  - [Blog Preview](https://github.com/O-Marin/blog-preview)
+ - [Result Cards](https://github.com/O-Marin/result-summary-component)
 
  
 
