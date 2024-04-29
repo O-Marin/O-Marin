@@ -4,6 +4,7 @@
                                                                About Me
   Tecnico en Energias Renovables, Estudiante de Ingenieria de ejecucion en software, luego de convencerme de querer un cambio de carrera, realize 2 bootcamps y un par de cursos online de python del programma open online course program at Massachusetts Institute of Technology. Egresado de bootcamp desarrollo de aplicaciones Fullstack Java de Edutecno, pronto a egresar de desarrollo de aplicaciones Fullstack Javascript de desafio Latam, ambos facilitados a traves de Talento Digitald y ambos certificados por el Sence
   Me dedico a estudiar, buscar trabajo y aprender cosas nuevas siempre que tengo la oportunidad.
+Puede que no tenga experiencia en el area pero me gusta aprender, y me gusta comprometerme con las tareas que se me asignan.
 
    :hammer:**This Profile is undere construction**:hammer:
 
