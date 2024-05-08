@@ -40,6 +40,9 @@ Puede que no tenga experiencia en el area pero me gusta aprender, y me gusta com
 - Bootstrap
 - Jquery
 - Javascript
+- Node.js
+- ExpressJs
+- Postgresql
 
 #### On Hold :
 
