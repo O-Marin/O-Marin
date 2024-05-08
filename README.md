@@ -7,7 +7,11 @@
 Puede que no tenga experiencia en el area pero me gusta aprender, y me gusta comprometerme con las tareas que se me asignan.
 
    :hammer:**This Profile is undere construction**:hammer:
-   - 📫 How to reach me **omarin.dev@protonmail.com**
+   
+- 🔭 I’m currently working on **Portfolio**
+
+- 🌱 I’m currently learning **React, Tailwind, More Css**
+- 📫 How to reach me **omarin.dev@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
